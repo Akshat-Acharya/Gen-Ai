@@ -1,0 +1,52 @@
+# ----------------------------------------------------------------
+# General Python
+# ----------------------------------------------------------------
+
+# Virtual Environment
+# This folder contains all the packages for your project and can be very large.
+# It should be recreated using 'requirements.txt' instead of being versioned.
+venv/
+.venv/
+env/
+.env/
+
+# Python cache and compiled files
+# These are auto-generated files that Python creates for performance.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# ----------------------------------------------------------------
+# Jupyter Notebook
+# ----------------------------------------------------------------
+
+# Notebook checkpoint files
+# These are auto-saved backups created by Jupyter.
+.ipynb_checkpoints/
+
+
+# ----------------------------------------------------------------
+# IDE / Editor Settings
+# ----------------------------------------------------------------
+
+# VSCode specific settings
+.vscode/
+
+
+# ----------------------------------------------------------------
+# Project-Specific Output & Data Files
+# ----------------------------------------------------------------
+
+# These appear to be output or temporary files from your scripts.
+# It's best to ignore them and version the script that creates them instead.
+dest.txt
+example.bin
+*.log
+
+# You can uncomment the lines below if you don't want to track
+# source data files in your repository.
+# source.txt
+# example.csv
+# example.txt
