@@ -50,6 +50,7 @@ backward_propogation.pdf
 Problems_With_RNN.pdf
 datasets
 Churn_Modelling.csv
+.env
 
 # You can uncomment the lines below if you don't want to track
 # source data files in your repository.
